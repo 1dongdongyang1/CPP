@@ -1,19 +1,6 @@
 # C++内存管理
 
-**文章目录**：
-
-1. [C++内存分区](#1.0)
-2. [C++动态内存管理方式](#2.0)
-   1. [new/delete操作内置类型](#2.1)
-   2. [new/delete操作自定义类型](#2.2)
-3. [operator new和operator delete函数](#3.0)
-   1. [operator new/operator delete与malloc/free的关系](#3.1)
-   2. [operator new/operator delete与new/delete的关系](#3.2)
-   3. [operator new/operator delete与operator new[]/operator delete[]的关系](#3.3)
-4. [new和delete的实现原理](#4.0)
-5. [malloc/free与new/delete的区别](#5.0)
-6. [定位new表达式](#6.0)
-7. [内存泄漏](#7.0)
+[toc]
 
 ---
 
