@@ -201,7 +201,7 @@ public:
 				}
 				else
 				{
-					if (cur = parent->_left)
+					if (cur == parent->_left)
 					{
 						RotateR(parent);
 						swap(parent, cur);
